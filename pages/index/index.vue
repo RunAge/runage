@@ -16,7 +16,7 @@ import { websites } from '~/components/websites';
       <p class="text-lg text-justify">
         I am a random programmer focused on the backend. 
         I mainly work in TypeScript, but I'm not afraid to use other languages. 
-        My free time is spent on series, games, research and developing random things.
+        My free time is spent on serials, games, research and developing random things.
       </p>
     </div>
     <div class="grid place-items-center gap-6 grid-cols-1 p-8 px-16 md:p-16">
