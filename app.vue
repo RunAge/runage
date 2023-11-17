@@ -6,9 +6,11 @@
   @apply bg-base-100;
 }
 html {
+  min-height: 100svh;
   @apply min-h-full h-full;
 }
 body {
-  @apply grid grid-cols-1 grid-rows-1 place-items-center min-h-full h-full m-0;
+  min-height: 100svh;
+  @apply flex justify-center place-items-center
 }
 </style>
