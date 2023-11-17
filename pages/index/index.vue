@@ -1,7 +1,7 @@
 
 <script setup lang="ts">
 import Button from '~/components/Button.vue';
-import { websites } from './websites';
+import { websites } from '~/components/websites';
 
 </script>
 <template>
