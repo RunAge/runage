@@ -5,8 +5,8 @@ import { websites } from '~/components/websites';
 
 </script>
 <template>
-  <div class="my-8 flex flex-col md:flex-row place-items-center shadow-lg rounded-md bg-base-200 ring-2 ring-primary ring-offset-base-100 ring-offset-4">
-    <div class="flex flex-col gap-6 items-center align-middle justify-center w-64 md:w-80 md:bg-base-300 py-8 md:px-10 drop-shadow">
+  <div class="my-8 flex flex-col md:flex-row place-items-stretch shadow-lg rounded-md bg-base-200 ring-2 ring-primary ring-offset-base-100 ring-offset-4">
+    <div class="flex flex-col gap-6 items-center justify-center w-64 md:w-80 md:bg-base-300 py-8 md:px-10 drop-shadow mx-auto" >
       <div class="avatar">
         <div class="w-32 rounded-full ring-2 ring-primary ring-offset-base-100 ring-offset-2 m-auto drop-shadow">
           <img src="/avatars/runage.png" />

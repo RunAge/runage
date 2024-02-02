@@ -7,10 +7,11 @@
 }
 html {
   min-height: 100svh;
-  @apply min-h-full h-full;
+  @apply h-full;
 }
 body {
   min-height: 100svh;
+  height: 100svh;
   @apply flex justify-center place-items-center
 }
 </style>
