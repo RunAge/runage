@@ -1,17 +1,18 @@
+<script setup lang="ts"></script>
+
 <template>
-  <NuxtPage/>
+  <NuxtPage />
 </template>
+
 <style>
 :root {
-  @apply bg-base-100;
+  @apply bg-ctp-base;
 }
 html {
   min-height: 100svh;
-  @apply h-full;
 }
 body {
   min-height: 100svh;
-  height: 100svh;
-  @apply flex justify-center place-items-center
+  @apply flex justify-center place-items-center;
 }
 </style>
